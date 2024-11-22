@@ -2,6 +2,7 @@
 - 👀 I’m interested in networking and cybersecurity
 - 🌱 I’m currently learning Cisco systems and preparing for CCNA1
 - 💞️ I’m looking to collaborate on networking automation projects
+- 🪪 Certified in ITIL 4 Foundation
 - 📫 How to reach me: send a dm!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: can play a 5 string bass
