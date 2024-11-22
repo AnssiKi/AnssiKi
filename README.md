@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnssiKi
 - 👀 I’m interested in networking and cybersecurity
-- 🌱 I’m currently learning Cicsco systems and preparing for CCNA1
+- 🌱 I’m currently learning Cisco systems and preparing for CCNA1
 - 💞️ I’m looking to collaborate on networking automation projects
 - 📫 How to reach me: send a dm!
 - 😄 Pronouns: he/him
