@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnssiKi
 - 👀 I’m interested in networking and cybersecurity
-- 🌱 I’m currently learning Cisco systems, web development and tinkering with Raspberry Pi
+- 🌱 I’m currently learning Cisco systems, Linux and web development and tinkering with Raspberry Pi
 - 💞️ I’m looking to collaborate on networking and cybersecurity projects
 - 🪪 Certified in ITIL 4 Foundation
 - 📫 How to reach me: send a dm!
